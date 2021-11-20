@@ -1,9 +1,9 @@
 # World_Weather_Analysis
 
-# Purpose
+## Purpose
 
-# Weather Data
+## Weather Data
 
-# Vacation Search
+## Vacation Search
 
-# Vacation Itinerary
+## Vacation Itinerary
